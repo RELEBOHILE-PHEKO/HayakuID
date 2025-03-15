@@ -1,7 +1,6 @@
 import express from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import admin from "firebase-admin";
 import biometricRoutes from './biometrics/biometricRoutes.js'; // Import biometric routes
 
 dotenv.config();

@@ -1,3 +1,10 @@
 #!/usr/bin/env bash
-npm install   # or `npm install` if you're using npm
-npm start     # or `npm start` depending on your setup
+
+# Navigate to the backend directory
+cd backend
+
+# Install dependencies using npm
+npm install
+
+# Start the backend using npm
+npm start
